@@ -1,6 +1,6 @@
 ### Preksha Shah
 
-**Aspiring Data Scientist | MSc Data Science Student at Christ University**
+**Data Scientist | MSc Data Science Student at Christ University**
 
 Hi there, I'm Preksha! 👋 I'm an aspiring data scientist currently pursuing my MSc in Data Science at Christ University, Bangalore. I'm passionate about turning data into actionable insights and solving real-world problems using data science and machine learning.
 
